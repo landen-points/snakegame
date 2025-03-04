@@ -1,2 +1,2 @@
-# 285snakegame
+# snakegame
 Snake game in C
